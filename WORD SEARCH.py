@@ -70,8 +70,7 @@ while turns > 0:
 		# then “Wrong” will be given as output 
 		print("Wrong")
 		
-		# this will print the number of
-		# turns left for the user
+		# this will print the number of turns left for the user
 		print("You have", + turns, 'more guesses')
 		
 		
