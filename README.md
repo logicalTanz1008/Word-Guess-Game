@@ -1,1 +1,1 @@
-# Word-Guess-Game
+Game to guess random characters using Random module
